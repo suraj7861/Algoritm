@@ -14,8 +14,8 @@ public class Anagram {
 		char[] x = str1.toCharArray();
 		char[] y = str2.toCharArray();
 		
-		Arrays.sort(x);
-		Arrays.sort(y);
+		//Arrays.sort(x);
+		//Arrays.sort(y);
 		
 		Boolean result = Arrays.equals(x, y);
 		

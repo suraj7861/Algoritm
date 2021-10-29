@@ -11,7 +11,7 @@ public class BinarySearch {
 		
 		// sort string
 		String[] str1 = sort(str);
-		System.out.println("After sorting:" + Arrays.toString(str));
+		System.out.println("After sorting:" + Arrays.toString(str1));
 
 		// word to search in string
 		String search = "Tata";
