@@ -11,7 +11,7 @@ public class Anagram {
 		System.out.println("string 1 :"+ str1);
 		System.out.println("string 2 :"+ str2);
 		
-		char[] x = str1.toCharArray();
+		char[] x = str1.toCharArray(); 
 		char[] y = str2.toCharArray();
 		
 		//Arrays.sort(x);
